@@ -1,0 +1,65 @@
+[
+  {
+    "case": "data_18_R3_to_R4",
+    "uart_baud": 9600,
+    "wire_bytes": 239,
+    "received_bytes": 239,
+    "matched": true,
+    "expected_sha256": "0a75ffe93c8980c0c3b98d8351ffeb764401196cc7db246b48ca93db583643f8",
+    "received_sha256": "0a75ffe93c8980c0c3b98d8351ffeb764401196cc7db246b48ca93db583643f8"
+  },
+  {
+    "case": "return_18_R4_to_R3",
+    "uart_baud": 9600,
+    "wire_bytes": 239,
+    "received_bytes": 239,
+    "matched": true,
+    "expected_sha256": "0a75ffe93c8980c0c3b98d8351ffeb764401196cc7db246b48ca93db583643f8",
+    "received_sha256": "0a75ffe93c8980c0c3b98d8351ffeb764401196cc7db246b48ca93db583643f8"
+  },
+  {
+    "case": "data_1024_R3_to_R4",
+    "uart_baud": 9600,
+    "wire_bytes": 1431,
+    "received_bytes": 1431,
+    "matched": true,
+    "expected_sha256": "4a44dd93cf76f13164d3b9ff9ad3f9a7afd494a78bafd1ae822324c66257997a",
+    "received_sha256": "4a44dd93cf76f13164d3b9ff9ad3f9a7afd494a78bafd1ae822324c66257997a"
+  },
+  {
+    "case": "return_1024_R4_to_R3",
+    "uart_baud": 9600,
+    "wire_bytes": 1431,
+    "received_bytes": 1431,
+    "matched": true,
+    "expected_sha256": "4a44dd93cf76f13164d3b9ff9ad3f9a7afd494a78bafd1ae822324c66257997a",
+    "received_sha256": "4a44dd93cf76f13164d3b9ff9ad3f9a7afd494a78bafd1ae822324c66257997a"
+  },
+  {
+    "case": "large_reply_2000_USB_burst",
+    "uart_baud": 9600,
+    "wire_bytes": 2292,
+    "received_bytes": 2292,
+    "matched": true,
+    "expected_sha256": "46a5d50825723433947d4f670145b95959b8fdf3deea955cdea46d3927406c19",
+    "received_sha256": "46a5d50825723433947d4f670145b95959b8fdf3deea955cdea46d3927406c19"
+  },
+  {
+    "case": "oversize_resync",
+    "uart_baud": 9600,
+    "wire_bytes": 224,
+    "received_bytes": 224,
+    "matched": true,
+    "expected_sha256": "8f0ccc7769ed0008556e5ae033d4ecfae2f5f9e1271e769872362e5d6a01dd19",
+    "received_sha256": "8f0ccc7769ed0008556e5ae033d4ecfae2f5f9e1271e769872362e5d6a01dd19"
+  },
+  {
+    "case": "partial_resync",
+    "uart_baud": 9600,
+    "wire_bytes": 224,
+    "received_bytes": 224,
+    "matched": true,
+    "expected_sha256": "8f0ccc7769ed0008556e5ae033d4ecfae2f5f9e1271e769872362e5d6a01dd19",
+    "received_sha256": "8f0ccc7769ed0008556e5ae033d4ecfae2f5f9e1271e769872362e5d6a01dd19"
+  }
+]

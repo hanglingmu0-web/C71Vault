@@ -1,0 +1,2 @@
+# Optional physical-board-to-debug-app relay, separate from the desktop EXE.
+pyserial==3.5

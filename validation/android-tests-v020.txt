@@ -1,0 +1,10 @@
+
+jp.c71.vault.OpticalTest:....
+jp.c71.vault.RetentionTest:........
+jp.c71.vault.VaultTest:...........
+
+Time: 0.761
+
+OK (23 tests)
+
+

@@ -1,0 +1,26 @@
+[
+  {
+    "direction": "R3 TX D9 -> optocoupler -> R4 RX D0",
+    "payload_bytes": 18,
+    "wire_bytes": 239,
+    "received_bytes": 5,
+    "expected_sha256": "805b063027b036b6483cf787a7e75c703335a4c19e0eb3f52c8cb2a70e765044",
+    "received_sha256": "744efbbdf995895a7215cbb71a1a1a3565d569d2b2c9613f44546871dbca5b19",
+    "matched": false,
+    "sent_prefix": "f07d433731004337495301012300232323232323230023232323232323002300",
+    "received_prefix": "e0e6e0e0e6",
+    "first_difference": 0
+  },
+  {
+    "direction": "R4 TX D1 -> optocoupler -> R3 RX D8",
+    "payload_bytes": 18,
+    "wire_bytes": 239,
+    "received_bytes": 239,
+    "expected_sha256": "805b063027b036b6483cf787a7e75c703335a4c19e0eb3f52c8cb2a70e765044",
+    "received_sha256": "2f12c4f182f9cbb9b49e9bf6d253ebbe603bf4d70c80902194f207f1cc252d76",
+    "matched": false,
+    "sent_prefix": "f07d433731004337495301012300232323232323230023232323232323002300",
+    "received_prefix": "e078022620000226000200000200020202020202020002020202020202000200",
+    "first_difference": 0
+  }
+]

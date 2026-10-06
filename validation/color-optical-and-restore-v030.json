@@ -1,0 +1,27 @@
+{
+  "version": "0.3.0",
+  "optical_mode": "binary-four-color-batch-ack",
+  "optical_signed_final_ack": {
+    "session": "e8f7d46ab86e43a09e9e7deb2ea6fa33",
+    "transfer": "32115c9167eb4276a24f1da3f298c9d1",
+    "base": 14,
+    "token": 0,
+    "mask": 0,
+    "code": "stored",
+    "bytes": 13208,
+    "sha256": "23636cf920cf3936fcd8830731ec82f780187415a9c48766f816c6fcfc1b3adc"
+  },
+  "usb_export_from_separately_paired_pc_identity": true,
+  "restored_with_key_previously_recovered_from_phone": true,
+  "all_files_match_original": true,
+  "file_count": 2,
+  "plain_bytes": 12346,
+  "encrypted_bytes": 13208,
+  "max_data_bytes_per_frame": 1024,
+  "data_frames": 13,
+  "window_size": 8,
+  "frame_dwell_seconds": 1.0,
+  "phone_camera_size": "1920x1080",
+  "elapsed_seconds_including_alignment": 169.7212950999965,
+  "limitation": "Small physical test with alignment/retries; no bulk throughput claim."
+}

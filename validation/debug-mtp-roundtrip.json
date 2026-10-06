@@ -1,0 +1,20 @@
+{
+  "archive_id": "0b81535cbbb54e62b8e999408937ec85",
+  "encrypted_bytes": 33566111,
+  "plaintext_files": 3,
+  "sha256": "2a5297a42344465115e9a5a5f4173bd893e991a61f62ec4a4c0454d037946c96",
+  "store_seconds": 1.63,
+  "download_seconds": 3.38,
+  "checks": {
+    "delete": "許可されていない操作です。削除・上書きAPIはありません",
+    "overwrite": "許可されていない操作です。削除・上書きAPIはありません",
+    "clear": "許可されていない操作です。削除・上書きAPIはありません",
+    "prune": "許可されていない操作です。削除・上書きAPIはありません",
+    "same_id": "保存済みIDへの上書きは禁止です",
+    "unregistered": "未登録のPCです"
+  },
+  "all_restored_files_match": true,
+  "saved_version_survives_source_overwrite": true,
+  "saved_version_survives_denied_operations": true,
+  "transport": "Windows MTP Shell / Android SAF; data did not use ADB"
+}

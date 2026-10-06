@@ -1,0 +1,9 @@
+cryptography>=45
+pywin32>=310
+pytest>=8
+qrcode>=8.2
+Pillow>=11
+opencv-python>=4.10
+zxing-cpp>=3.0
+
+pyserial==3.5

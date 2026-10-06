@@ -1,0 +1,17 @@
+{
+  "version": "0.4.0",
+  "transport": "UNO R3 USB CDC serial -> C71 USB Host (OTG)",
+  "protocol": "MIDI 1.0 SysEx",
+  "physically_isolated": false,
+  "uart_31250_tested": false,
+  "archive_id": "ebaf6f2ba44b401aa59cea5bf2c230f7",
+  "bytes": 1900,
+  "sha256": "f5090aeae030f26de2bc488bf92f953b95d42d7c628a59663bd6fe28961fc7ce",
+  "phone_log": "09-30 11:14:34.965 I/C71Midi (24370): verified device=/dev/bus/usb/001/002 [2341:0043] / CdcAcmSerialDriver #0 bytes=1900 sequence=5 crc_frames=7 errors=0 sha256=f5090aeae030f26de2bc488bf92f953b95d42d7c628a59663bd6fe28961fc7ce committed=true",
+  "commit_verified": true,
+  "usb_export_receipt_verified": true,
+  "restored_with_previously_phone_recovered_key": true,
+  "restored_files": 2,
+  "restored_bytes": 1081,
+  "all_files_match_original": true
+}

@@ -1,0 +1,13 @@
+{
+  "status": "passed",
+  "phase": "complete",
+  "mtp": {
+    "status": "not_requested"
+  },
+  "gui_created": true,
+  "buttons": 14,
+  "qr_roundtrip": true,
+  "four_color_binary_roundtrip": true,
+  "opencv_loaded": "4.13.0",
+  "encrypted_roundtrip": true
+}

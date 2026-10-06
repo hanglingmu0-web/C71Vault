@@ -1,0 +1,12 @@
+{
+  "protocol": "C71-MIDI-ACK1",
+  "type": 4,
+  "sequence": 25,
+  "code": "committed",
+  "bytes": 11838,
+  "sha256": "f5ce1daa3d833e0501c5c6acfb82289de870fa257f5a568e41d8ea5e751e9768",
+  "signature_verified": true,
+  "normal_device_pin_matched": true,
+  "uart_baud": 9600,
+  "usb_baud": 115200
+}

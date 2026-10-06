@@ -1,0 +1,40 @@
+{
+  "board": "Arduino UNO R4 WiFi",
+  "port": "COM5",
+  "transport": "Arduino USB serial -> Windows relay -> ADB -> C71 debug app",
+  "format": "MIDI 1.0 SysEx, 7-bit packed; not USB MIDI class",
+  "physically_isolated": false,
+  "usb_host_direct_test": false,
+  "wire_bytes_relayed": 98869,
+  "elapsed_seconds": 26.703429899993353,
+  "fixtures": {
+    "text": {
+      "bytes": 18,
+      "sequence": 2,
+      "complete": true,
+      "crc_frames": 4,
+      "errors": 0,
+      "sha256": "b2612ea1af2856c46ec58e8ee013edc8d38bffe154b335292543cdcdf90257a4",
+      "error": "??"
+    },
+    "1KiB": {
+      "bytes": 1024,
+      "sequence": 9,
+      "complete": true,
+      "crc_frames": 15,
+      "errors": 0,
+      "sha256": "b79a5efa3743c1f1dc4017b54b0be4839ad22fc0d3d49dd197df48dc4f25291d",
+      "error": "??"
+    },
+    "64KiB": {
+      "bytes": 65536,
+      "sequence": 513,
+      "complete": true,
+      "crc_frames": 530,
+      "errors": 0,
+      "sha256": "aaeaedafd4845a0a5dea0790f67e3bc1b46e806090d057dbbc1c17b865d154bf",
+      "error": "??"
+    }
+  },
+  "all_expected_hashes_match": true
+}

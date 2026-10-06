@@ -1,0 +1,15 @@
+{
+  "status": "failed",
+  "phase": "mtp",
+  "mtp": {
+    "status": "failed"
+  },
+  "gui_created": true,
+  "buttons": 14,
+  "qr_roundtrip": true,
+  "four_color_binary_roundtrip": true,
+  "opencv_loaded": "4.13.0",
+  "encrypted_roundtrip": true,
+  "error_type": "RuntimeError",
+  "error": "C71をロック解除し、USBの用途を「ファイル転送」にしてください。C71 Vaultで転送フォルダを設定し、受付を開始してください。"
+}

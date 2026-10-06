@@ -1,0 +1,19 @@
+{
+  "optical_signed_final_ack": {
+    "v": 1,
+    "device": "bb1b930f-8ef9-4e46-a066-c1f4c3c3c439",
+    "session": "fb0206d5616345e0a38f9a33943ee41c",
+    "transfer": "4b9e0344ea7746da9a7a66953d8243f3",
+    "seq": 5,
+    "code": "stored",
+    "bytes": 1963,
+    "sha256": "ec6e62a16319fb1b1348eae541f87d0301183b0d95fcb274f3e666129717b142"
+  },
+  "usb_export_from_fresh_pc": true,
+  "recovery_used_phone_recovered_key": true,
+  "all_files_match_original": true,
+  "file_count": 2,
+  "plain_bytes": 1095,
+  "encrypted_bytes": 1963,
+  "important_note": "Only 1963-byte optical integration sample; no bulk-transfer performance claim."
+}

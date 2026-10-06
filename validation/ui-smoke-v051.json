@@ -1,0 +1,10 @@
+{
+  "asynchronous_mainloop_unicode_files_and_folder": true,
+  "repeated_native_drops_without_duplicates": 50,
+  "busy_drop_ignored": true,
+  "three_transport_controls": true,
+  "clear_then_drop_again": true,
+  "idempotent_close_cancels_drop_timer": true,
+  "native_drop_messages": 53,
+  "no_transfer_performed": true
+}

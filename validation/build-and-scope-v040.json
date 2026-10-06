@@ -1,0 +1,8 @@
+{
+  "apk_sha256": "bdcf4a2798f09cba6ef0f41e765670f8260203488b9233d31c505c9b1fdbce8b",
+  "release_contains_debug_relay_class": false,
+  "lint_errors": 0,
+  "vendored_main_sources_match_v3_10_0": true,
+  "windows_tests": 67,
+  "android_tests": 60
+}

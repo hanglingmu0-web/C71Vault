@@ -1,0 +1,47 @@
+[
+  {
+    "case": "data_65536_R3_to_R4",
+    "uart_baud": 9600,
+    "wire_bytes": 80559,
+    "received_bytes": 80559,
+    "matched": true,
+    "expected_sha256": "a911553afe8127143c47c8f66b322e1837f8b946bf1ffc57dbe529d3d478e810",
+    "received_sha256": "a911553afe8127143c47c8f66b322e1837f8b946bf1ffc57dbe529d3d478e810"
+  },
+  {
+    "case": "return_65536_R4_to_R3",
+    "uart_baud": 9600,
+    "wire_bytes": 80559,
+    "received_bytes": 80559,
+    "matched": true,
+    "expected_sha256": "a911553afe8127143c47c8f66b322e1837f8b946bf1ffc57dbe529d3d478e810",
+    "received_sha256": "a911553afe8127143c47c8f66b322e1837f8b946bf1ffc57dbe529d3d478e810"
+  },
+  {
+    "case": "large_reply_2000_USB_burst",
+    "uart_baud": 9600,
+    "wire_bytes": 2292,
+    "received_bytes": 2292,
+    "matched": true,
+    "expected_sha256": "46a5d50825723433947d4f670145b95959b8fdf3deea955cdea46d3927406c19",
+    "received_sha256": "46a5d50825723433947d4f670145b95959b8fdf3deea955cdea46d3927406c19"
+  },
+  {
+    "case": "oversize_resync",
+    "uart_baud": 9600,
+    "wire_bytes": 224,
+    "received_bytes": 224,
+    "matched": true,
+    "expected_sha256": "8f0ccc7769ed0008556e5ae033d4ecfae2f5f9e1271e769872362e5d6a01dd19",
+    "received_sha256": "8f0ccc7769ed0008556e5ae033d4ecfae2f5f9e1271e769872362e5d6a01dd19"
+  },
+  {
+    "case": "partial_resync",
+    "uart_baud": 9600,
+    "wire_bytes": 224,
+    "received_bytes": 224,
+    "matched": true,
+    "expected_sha256": "8f0ccc7769ed0008556e5ae033d4ecfae2f5f9e1271e769872362e5d6a01dd19",
+    "received_sha256": "8f0ccc7769ed0008556e5ae033d4ecfae2f5f9e1271e769872362e5d6a01dd19"
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "native_wm_dropfiles_unicode_multiple": true,
+  "duplicate_selection_ignored": true,
+  "busy_drop_ignored": true,
+  "three_transport_controls": true,
+  "remove_selection": true,
+  "no_transfer_performed": true
+}

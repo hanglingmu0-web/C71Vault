@@ -1,0 +1,8 @@
+ENTER MAINLOOP
+POSTED
+Fatal Python error: PyEval_RestoreThread: the function must be called with the GIL held, after Python initialization and before Python finalization, but the GIL is released (the current Python thread state is NULL)
+Python runtime state: initialized
+
+Current thread 0x00008770 (most recent call first):
+  File "C:\Users\LOCAL_USER\AppData\Local\Python\pythoncore-3.14-64\Lib\tkinter\__init__.py", line 1613 in mainloop
+  File "C:\Users\LOCAL_USER\Documents\Codex\2026-09-29\new-chat\work\repro_async_drop.py", line 29 in <module>

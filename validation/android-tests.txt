@@ -1,0 +1,8 @@
+
+jp.c71.vault.VaultTest:.........
+
+Time: 0.205
+
+OK (9 tests)
+
+

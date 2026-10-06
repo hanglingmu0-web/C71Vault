@@ -1,0 +1,10 @@
+{
+  "gui_created": true,
+  "buttons": 14,
+  "encrypted_roundtrip": true,
+  "qr_roundtrip": true,
+  "four_color_binary_roundtrip": true,
+  "opencv_loaded": "4.13.0",
+  "mtp_device": "realme C71",
+  "device_fingerprint": "b4f22f112308ce653cdf74d0b231e3c101ff6f483c292e8d4ea11a866cf7eae4"
+}

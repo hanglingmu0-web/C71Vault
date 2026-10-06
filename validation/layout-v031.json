@@ -1,0 +1,39 @@
+{
+  "version": "0.3.1",
+  "device": "realme C71",
+  "modes": {
+    "mono": {
+      "ack_bounds": [
+        12,
+        190,
+        708,
+        821
+      ],
+      "camera_bounds": [
+        12,
+        821,
+        708,
+        1453
+      ],
+      "ack_above_camera": true
+    },
+    "color": {
+      "ack_bounds": [
+        12,
+        140,
+        708,
+        796
+      ],
+      "camera_bounds": [
+        12,
+        796,
+        708,
+        1453
+      ],
+      "ack_above_camera": true
+    }
+  },
+  "four_color_ack_decodes_from_screen": true,
+  "lint_errors": 0,
+  "scope": "Layout verified on device in both modes; no new end-to-end optical transfer in 0.3.1."
+}

@@ -1,0 +1,4 @@
+ENTER MAINLOOP
+POSTED
+RECEIVED ['C:\\test\\����.txt']
+PASS

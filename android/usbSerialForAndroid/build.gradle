@@ -1,0 +1,9 @@
+plugins { id 'com.android.library' }
+android {
+    buildFeatures { buildConfig true }
+    namespace 'com.hoho.android.usbserial'
+    compileSdk 36
+    defaultConfig { minSdk 30 }
+    compileOptions { sourceCompatibility JavaVersion.VERSION_17; targetCompatibility JavaVersion.VERSION_17 }
+}
+dependencies { implementation 'androidx.annotation:annotation:1.9.1' }
